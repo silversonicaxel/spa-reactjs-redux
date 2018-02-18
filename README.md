@@ -49,7 +49,7 @@ npm install --save redux-thunk
 
 ## How do I install the project
 ```sh
-git clone https://silversonicaxel@bitbucket.org/silversonicaxel/spa-reactjs-redux.git
+git clone https://github.com/silversonicaxel/spa-reactjs-redux.git
 cd spa-reactjs-redux
 npm install
 npm run build
